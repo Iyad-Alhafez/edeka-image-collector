@@ -1,3 +1,4 @@
+# edeka-image-collector
 A simple react-native app to capture images and store them in a local DB.
 
 ## Get started
